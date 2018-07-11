@@ -1,0 +1,10 @@
+CREATE TABLE lightLog (
+    username varchar(255),
+    lightstatus varchar(255),
+    RGBstatus varchar(255)
+);
+
+CREATE TABLE buzzerLog (
+    username varchar(255),
+    buzzerstatus varchar(255)
+);

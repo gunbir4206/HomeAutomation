@@ -1,0 +1,8 @@
+
+CREATE DATABASE user_accounts;
+
+CREATE TABLE users (
+    username varchar(255),
+    password varchar(255)
+    );
+

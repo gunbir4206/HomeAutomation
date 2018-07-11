@@ -1,0 +1,9 @@
+Remaining Objectives:
+Establish server and client
+Server to client communication
+
+
+Completed Objectives:
+Verified power supply module works. -Jimmy
+Connected ESP8266-12E to mobile hotspot. -Jimmy
+Verified that uploaded sketch remains on ESP8266 after disconnecting from computer and powering with power supply. -Jimmy
